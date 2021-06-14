@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GeekBurger": {
+      "commandName": "Project",
+      "commandLineArgs": "receiver"
+    }
+  }
+}
